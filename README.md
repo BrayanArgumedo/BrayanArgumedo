@@ -13,7 +13,7 @@
 
 <img align="right" width=200px height=200px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
-- :school: I am a `student` of the [Faculty of Engineering] at the [University of Cartagena].
+- :school: I am a `student` of the [Faculty of Engineering](https://www.unicartagena.edu.co/estudia-con-nosotros/facultad-ingenieria) at the [University of Cartagena](https://www.unicartagena.edu.co).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
