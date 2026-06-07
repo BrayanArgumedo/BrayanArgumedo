@@ -158,7 +158,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BrayanArgumedo&theme=tokyonight_duo&hide_border=true" alt="BrayanArgumedo streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=BrayanArgumedo&theme=tokyonight_duo&hide_border=true" alt="BrayanArgumedo streak stats" />
 </p>
 
 </details>
@@ -168,10 +168,11 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="BrayanArgumedo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=BrayanArgumedo&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-  </a>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=BrayanArgumedo&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="BrayanArgumedo top langs" height="230px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BrayanArgumedo&theme=tokyonight" height="180px"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=BrayanArgumedo&theme=tokyonight" height="180px"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BrayanArgumedo&theme=tokyonight" />
 </p>
 
 </details>
@@ -192,7 +193,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BrayanArgumedo&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="BrayanArgumedo trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=BrayanArgumedo&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-bg=true" alt="BrayanArgumedo trophies" />
   </a>
 </p>
 
